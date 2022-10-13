@@ -24,5 +24,7 @@ namespace WPF_GIT_4E
         {
             InitializeComponent();
         }
+        
+        // button di stampa
     }
 }
